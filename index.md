@@ -16,7 +16,7 @@ Syntax highlighted code block
 ### Header 3
 
 #Top 10 list
-- Space invaders
+1. 'Space invaders'
 
 1. Numbered
 2. List
