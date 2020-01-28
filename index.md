@@ -27,7 +27,7 @@ Syntax highlighted code block
 9. Ancient Cryptography
 10. FreeCodeCamp - Responsive Web Design Principles
 
-![Computer](https://i.ytimg.com/vi/w5JNY0E6s3o/maxresdefault.jpg)
+![https://i.ytimg.com/vi/w5JNY0E6s3o/maxresdefault.jpg](src)
 1. Numbered
 2. List
 
