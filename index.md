@@ -11,12 +11,22 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+
 ## Header 2
 ### Header 3
 
-#Top 10 list
-1. 'Space invaders'
+# Top 10 list
+1. Space invaders
+2. Intro to Html
+3. Intro to CSS
+4. Computers
+5. Algorithms
+6. Internet 101
+7. Intro to JS
+8. Advanced JS:Natural Simulations
+9. Ancient Cryptography
+10. FreeCodeCamp - Responsive Web Design Principles
+
 
 1. Numbered
 2. List
