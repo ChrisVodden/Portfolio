@@ -4,7 +4,7 @@
 On this site, you can see a top ten list of modules that I have worked on throughout the semester, as well as see my experiences while working on them and how I have grown as a student.
 
 # Top 10 list
-1. Space invaders - This module was the summative for the class. I will continue to learn programming and computer science concepts through growing my creative side of programming. This module was my favourite to work on for it allowed me to put the puzzle pieces together and forced me to come up with my own ideas on my own instead of following specific intructions like the other modules.
+1. Space invaders  This module was the summative for the class. I will continue to learn programming and computer science concepts through growing my creative side of programming. This module was my favourite to work on for it allowed me to put the puzzle pieces together and forced me to come up with my own ideas on my own instead of following specific intructions like the other modules.
 2. Intro to Html 
 3. Intro to CSS
 4. Computers
