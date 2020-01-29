@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to my Portfolio!
+On this site, you can see a top ten list of modules that I have worked on throghout the semester.
 
 You can use the [editor on GitHub](https://github.com/ChrisVodden/Portfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
