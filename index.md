@@ -1,6 +1,7 @@
 ## Welcome to my Portfolio!
+![Image of Technology](https://www.cpacanada.ca/-/media/site/operational/ec-education-certification/images/g10269-ec.jpg)
 On this site, you can see a top ten list of modules that I have worked on throghout the semester.
-![Image of Computer](https://i.ytimg.com/vi/w5JNY0E6s3o/maxresdefault.jpg)
+
 You can use the [editor on GitHub](https://github.com/ChrisVodden/Portfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
