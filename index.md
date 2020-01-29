@@ -1,6 +1,20 @@
 ## Welcome to my Portfolio!
 ![Image of Technology](https://www.cpacanada.ca/-/media/site/operational/ec-education-certification/images/g10269-ec.jpg)
+
 On this site, you can see a top ten list of modules that I have worked on throghout the semester.
+
+# Top 10 list
+1. Space invaders
+2. Intro to Html
+3. Intro to CSS
+4. Computers
+5. Algorithms
+6. Internet 101
+7. Intro to JS
+8. Advanced JS:Natural Simulations
+9. Ancient Cryptography
+10. FreeCodeCamp - Responsive Web Design Principles
+
 
 You can use the [editor on GitHub](https://github.com/ChrisVodden/Portfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -17,17 +31,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-# Top 10 list
-1. Space invaders
-2. Intro to Html
-3. Intro to CSS
-4. Computers
-5. Algorithms
-6. Internet 101
-7. Intro to JS
-8. Advanced JS:Natural Simulations
-9. Ancient Cryptography
-10. FreeCodeCamp - Responsive Web Design Principles
+
 
 
 1. Numbered
