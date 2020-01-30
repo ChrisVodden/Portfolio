@@ -15,10 +15,13 @@ On this site, you can see a top ten list of modules that I have worked on throug
 5. Algorithms -> This moduled taught me the theory of algorithms and helped visualize what they do. This was a bit more boring because it wasn't as creative oriented but it still was important to complete because it is the building blocks for intermidiate programming. This module motivates me to make algorithms more efficient and makes me want to learn more about them in the future.
 
 6. Internet 101 -> Websites would not be possible without internet. This module taught me the history of the internet, how the internet works, and how computer scientists are working to make it better. This module answered many questions I had about the internet and gave me insight to the building blocks of the internet which helps me understand what I am doing when making a website or simply browsing on the Google. 
-7. Intro to JS -> 
-8. Advanced JS:Natural Simulations
-9. Ancient Cryptography
-10. FreeCodeCamp - Responsive Web Design Principles
+7. Intro to JS -> This module taught me how to use a coding language to make shapes, drawing, and animations. This was a very interesting module and allowed me to use my creativity while learning about the language. This makes me want to continue learning the language because it is a useful tool to use to make creative concepts.
+
+8. Advanced JS:Natural Simulations (Randomness) -> This module was a more advanced version of Intro to JS. You use more advanced mathematical concepts and apply it to the programming. It was more difficult but was still interesting and makes me want to work with these sort of mathematical concepts in the future.
+
+9. Ancient Cryptography -> This module explains how messages are encrypted and the history of encryption. It was very interesting because it taught me how to enrypt messages like security companies do and it was very fun to do. It makes me want to research more about this topic and attempt to make cryptogoraphy more efficient (potentially) in the future.
+
+10. FreeCodeCamp - Responsive Web Design Principles -> This smaller module was very interesting to me because it taught me basic web design tools. This is a field that I would like to get into maybe in a career because it allows you to use creativity while programming in different languages at the same time. 
 
 
 
